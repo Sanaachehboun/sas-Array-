@@ -23,4 +23,10 @@ let person={
     Age:20,
 };
 console.log(person);
+// exercice 7
+let personne={
+    name:"john",
+    age:25,
+};
+console.log(personne);
 
