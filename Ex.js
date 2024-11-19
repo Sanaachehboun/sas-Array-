@@ -13,3 +13,7 @@ console.log(Nombres);
 let Fruits=["mango","peach","pear"];
 Fruits[3]="pomme";
 console.log(Fruits);
+// exercice 5 
+let animal=["dog","cat","bird"];
+ animal.pop();
+console.log(animal);
