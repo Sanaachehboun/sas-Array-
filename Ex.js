@@ -17,3 +17,10 @@ console.log(Fruits);
 let animal=["dog","cat","bird"];
  animal.pop();
 console.log(animal);
+// exercice 6 
+let person={
+    name:"sana",
+    Age:20,
+};
+console.log(person);
+
