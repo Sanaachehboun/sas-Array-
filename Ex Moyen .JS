@@ -15,6 +15,9 @@ console.log(Tableau);
 let Fruits=["apple","banana","cherry","date"];
 Fruits.splice(1,1);
 console.log(Fruits);
-
-
-
+// exercice 5 (ordre croissant)
+let numbb=[5,1,8,4,7];
+numbb.sort(function(a,b) {
+    return a-b;
+});
+console.log(numbb);
