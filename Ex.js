@@ -37,3 +37,11 @@ let book={
 book.author="Jane doe";
 console.log(book.author +" "+ book.title);
 
+// exercice 9 
+let car={
+    make:"Toyota",
+    model:"Corolla",
+}
+car.year=2020;
+console.log(car);
+
