@@ -21,3 +21,8 @@ numbb.sort(function(a,b) {
     return a-b;
 });
 console.log(numbb);
+// exercice 6 
+let Nombre=[1,2,3,4];
+let carré=Nombre.map(n => n * 2);
+console.log(carré);
+
