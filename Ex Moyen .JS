@@ -11,4 +11,10 @@ let Tab=[4,5,6];
 let Tableau=tabl.concat(Tab);
 console.log(Tableau);
 
+// exercice 4 (suppression)
+let Fruits=["apple","banana","cherry","date"];
+Fruits.splice(1,1);
+console.log(Fruits);
+
+
 
