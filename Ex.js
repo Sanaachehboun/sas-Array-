@@ -29,4 +29,11 @@ let personne={
     age:25,
 };
 console.log(personne);
+// exercice 8 
+let book={
+    title:"javaScript 101",
+    author:"john deo",
+}
+book.author="Jane doe";
+console.log(book.author +" "+ book.title);
 
