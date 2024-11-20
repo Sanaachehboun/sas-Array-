@@ -21,8 +21,14 @@ numbb.sort(function(a,b) {
     return a-b;
 });
 console.log(numbb);
-// exercice 6 
+// exercice 6 (carrée)
 let Nombre=[1,2,3,4];
 let carré=Nombre.map(n => n * 2);
 console.log(carré);
 
+// exercice 7 (nombre de proprièté)
+let car={make:"toyota",model:"corolla",year:2012,color:"red"};
+let CbCar=Object.keys(car).length;
+console.log(CbCar);
+
+// exercice 8
